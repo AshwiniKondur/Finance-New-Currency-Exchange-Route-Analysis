@@ -1,5 +1,5 @@
 <div style="padding: 0; margin: 0; line-height: 1.2;">
-    <h1 style="margin: 0;"><b><font color='blue'> Finance-New Currency Exchange Route Launch Analysis</font></b></h1>
+    <h1 style="margin: 0;"><b><font color='blue'> Finance-New Currency Exchange Route Launch Analysis</font></b></h1> 
 
 
 ![image](https://github.com/user-attachments/assets/98631b0c-13ee-4f5b-9a4f-245ed4e1392d)
