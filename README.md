@@ -1,3 +1,7 @@
+<div style="padding: 0; margin: 0; line-height: 1.2;">
+    <h1 style="margin: 0;"><b><font color='blue'> Finance-New Currency Exchange Route Launch Analysis</font></b></h1>
+
+
 ![image](https://github.com/user-attachments/assets/98631b0c-13ee-4f5b-9a4f-245ed4e1392d)
 ![image](https://github.com/user-attachments/assets/939e3407-76ed-45d2-a92c-e1d76e39fbd2)
 ![image](https://github.com/user-attachments/assets/4f1218b6-6a3c-4cf3-a68d-d95cf6de44fb)
